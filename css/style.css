@@ -2,3 +2,10 @@
     font-family: roboto;
     src: url(../fonts/Roboto/Roboto-Italic.ttf);
 }
+
+body {
+    background: url("../img/744904.webp")no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+    color: white;
+}
